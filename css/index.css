@@ -1,0 +1,11 @@
+
+    body{
+      /* background-image: linear-gradient(to right,hsl(322, 100%, 66%),hsl(265, 100%, 66%));
+    } */
+  }
+    .attribution { font-size: 11px; text-align: center; }
+    .attribution a { color: hsl(228, 45%, 44%); }
+
+    #logo{
+      background-color: #ffffff;
+    }

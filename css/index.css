@@ -9,3 +9,37 @@
     #logo{
       background-color: #ffffff;
     }
+
+   .header{
+    margin: 3em;
+    height: 50px;
+    }
+    .header img {
+     float: left;
+     padding-left: 1.5em;
+    }
+    #header-btn{
+      margin-right: 30px;
+      float: right;
+      height: 30px;
+      width: 150px;
+      
+    }
+    .main-section{
+      margin: auto;
+      width: 500px;
+    }
+    .main-section img{
+      width: 500px;
+      
+    }
+    .main-section h3 , .main-section p{
+      text-align: center;
+    }
+    .strtBtn{
+      width: 150px;
+      height: 30px;
+      background: hsl(322, 100%, 66%);
+      border: 0;
+      margin: 0 170px;
+      }
